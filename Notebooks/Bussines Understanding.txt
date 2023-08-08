@@ -1,0 +1,11 @@
+Bussines Understanding
+
+California memiliki populasi tunawisma terbesar di Amerika, dengan jumlahnya naik 42 persen antara 2014 dan 2020, sementara negara lain mengalami penurunan 9 persen. Ini disebabkan oleh pasar perumahan California yang mahal dan cepat berkembang. Biaya perumahan yang tinggi dan kurangnya perumahan terjangkau menjadi masalah serius bagi keluarga berpenghasilan rendah dan individu berisiko menjadi tunawisma. Permintaan lapangan kerja yang kuat dan pertumbuhan pendapatan rumah tangga di California tidak diimbangi dengan pasokan perumahan yang memadai. Spekulasi properti juga menjadi faktor yang meningkatkan harga rumah di wilayah ini.
+
+- Problem
+Biaya perumahan yang tinggi dan spekulasi properti menjadi penyebab utama masalah ini. Pemerintah perlu mengambil langkah-langkah efektif untuk memantau dan mengendalikan harga sewa serta harga jual rumah, termasuk melalui analisis data untuk memprediksi harga perumahaan di California.
+
+- Goals
+Untuk memprediksi harga sewa dan harga jual perumahan di California agar dapat memberikan wawasan dan informasi yang lebih baik kepada pemerintah dalam menghadapi krisis perumahan dan harga rumah yang tinggi. Dan membantu pemerintah dalam mengenali pola-pola kenaikan harga perumahan yang tidak wajar atau cepat, sehingga dapat mengambil langkah-langkah untuk mencegah spekulasi properti yang berlebihan dan menjaga harga perumahan tetap terkendali dan stabil.
+
+
