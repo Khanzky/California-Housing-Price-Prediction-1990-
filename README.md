@@ -1,4 +1,4 @@
-# Capstone-Project-3
+# Capstone-Project-3 (California Housing Price Prediction)
 
 **Latar Belakang**
 
